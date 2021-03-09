@@ -1,4 +1,3 @@
-# static
 # Jenkins pipeline on AWS
 
 ## Deploy static website using Jenkins pipeline
