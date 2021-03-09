@@ -18,5 +18,8 @@ Create a pipeline that spins up three servers and uses Ansible to deploy an appl
   - Add another stage in pipeline
     - HTML lint stage
     - AWS S3 deployment stage
+## Files included:
+- index.html - static website main page
+- Jenkins - jenkins pipeline specification files
 
 
